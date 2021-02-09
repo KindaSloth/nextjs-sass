@@ -1,0 +1,17 @@
+$color: blueviolet;
+
+.main {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  &__title {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: $color;
+  }
+}
