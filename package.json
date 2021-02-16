@@ -9,7 +9,7 @@
     "eslint": "eslint src"
   },
   "dependencies": {
-    "next": "10.0.6",
+    "next": "10.0.7",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "sass": "^1.32.7"
