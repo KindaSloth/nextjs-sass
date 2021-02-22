@@ -261,15 +261,6 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@babel/types@^7.12.17":
-  version "7.12.17"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.12.17.tgz#9d711eb807e0934c90b8b1ca0eb1f7230d150963"
-  integrity sha512-tNMDjcv/4DIcHxErTgwB9q2ZcYyN0sUfgGKUK/mm1FJK7Wz+KstoEekxrl/tBiNDgLK1HGi+sppj1An/1DR4fQ==
-  dependencies:
-    "@babel/helper-validator-identifier" "^7.12.11"
-    lodash "^4.17.19"
-    to-fast-properties "^2.0.0"
-
 "@eslint/eslintrc@^0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-0.3.0.tgz#d736d6963d7003b6514e6324bec9c602ac340318"
@@ -376,10 +367,10 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.7.tgz#98a993516c859eb0d5c4c8f098317a9ea68db9ad"
   integrity sha512-cxWFQVseBm6O9Gbw1IWb8r6OS4OhSt3hPZLkFApLjM8TEXROBuQGLAH2i2gZpcXdLBIrpXuTDhH7Vbm1iXmNGA==
 
-"@types/node@^14.14.30":
-  version "14.14.30"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.30.tgz#7d5162eec085ba34f8cb9011e9ba12119f76f961"
-  integrity sha512-gUWhy8s45fQp4PqqKecsnOkdW0kt1IaKjgOIR3HPokkzTmQj9ji2wWFID5THu1MKrtO+d4s2lVrlEhXUsPXSvg==
+"@types/node@^14.14.31":
+  version "14.14.31"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.31.tgz#72286bd33d137aa0d152d47ec7c1762563d34055"
+  integrity sha512-vFHy/ezP5qI0rFgJ7aQnjDXwAMrG0KqqIH7tQG5PPv3BWBayOPIQNBjVc/P6hhdZfMx51REc6tfDNXHUio893g==
 
 "@types/prop-types@*":
   version "15.7.3"
